@@ -1,1 +1,3 @@
 developed f1 from branch b1
+clone is use to bring remote repo for first time to local workspace
+once its clone its become a non bare repo
